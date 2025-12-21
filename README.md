@@ -1,4 +1,4 @@
-# 📱 Personal Manager - Indian Edition
+4# 📱 Personal Manager - Indian Edition
 
 A comprehensive personal management application designed for Indian users to track finances, tasks, notes, goals, and habits.
 
@@ -48,7 +48,7 @@ A comprehensive personal management application designed for Indian users to tra
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/Ranjithkumar-67/Personal-Manager.git
+git clone https://github.com/Ranjithkumar-67/Personal-Manage.git
 cd Personal-Manager
 \`\`\`
 
