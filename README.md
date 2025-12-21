@@ -1,4 +1,4 @@
-4# 📱 Personal Manager - Indian Edition
+📱 Personal Manage - Indian Edition
 
 A comprehensive personal management application designed for Indian users to track finances, tasks, notes, goals, and habits.
 
