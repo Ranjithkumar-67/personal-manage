@@ -3,20 +3,25 @@
   <head>
     <meta charset="utf-8" />
 
-    <!-- ✅ ADD THIS LINE (IMPORTANT) -->
+    <!-- Base path for GitHub Pages -->
     <base href="/personal-manage/" />
 
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <!-- ✅ FIXED paths (NO %PUBLIC_URL%) -->
+    <link rel="icon" href="favicon.ico" />
+
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
     <meta name="theme-color" content="#4F46E5" />
     <meta name="description" content="Personal Manager - Indian Edition" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    <!-- PWA -->
+    <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <link rel="apple-touch-icon" href="logo192.png" />
+    <link rel="manifest" href="manifest.json" />
+
     <title>Personal Manager</title>
 
-    <!-- Tailwind CSS -->
+    <!-- Tailwind (OK for now, warning only) -->
     <script src="https://cdn.tailwindcss.com"></script>
   </head>
   <body>
